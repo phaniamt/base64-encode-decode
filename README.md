@@ -11,7 +11,7 @@ Output: aGVsbG8=
 echo `echo aGVsbG8= | base64 -d`
 ```
 Output: hello
-
+***
 ### Use scripts for encode and decode the base64
 
 #### Give execute permissions to scripts
