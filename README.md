@@ -10,13 +10,13 @@ chmod +x d
 sudo mv e /usr/local/bin/
 sudo mv d /usr/local/bin/
 ```
-#### Run the below command for Test the base64 encode scripts
+#### Run the below command for test the base64 encode script
 ```
 e 5000
 ```
 Output : NTAwMA==
 
-#### Run the below command for Test the base64 decode scripts
+#### Run the below command for test the base64 decode script
 ```
 d NTAwMA==
 ```
